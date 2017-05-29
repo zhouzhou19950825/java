@@ -1,4 +1,4 @@
-#两个小例子讲解System.out
+## 两个小例子讲解System.out
 
 其实本文章讲解的是System.out.println可能带来的误区
 
